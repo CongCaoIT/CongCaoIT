@@ -1,41 +1,73 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1 align="center">Hi 👋, I'm Cong Cao (TaoPro)</h1>
-    <h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=CongCaoIT&label=Profile%20views&color=0e75b6&style=flat" alt="CongCaoIT" /> </p>
-    <div align="center">
-        <img src="https://media0.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47grm93x1grsxc1dmdqa7ged0ojsyrqtlxmdpi534j&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ảnh gif">
-    </div>
-    <hr width="100%">
-    
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/CongCaoIT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phan_conghieu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CongCaoIT) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CongCaoIT&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CongCaoIT&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CongCaoIT&theme=slateorange&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Cong Cao | TaoPro
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CongCaoIT&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B+I'm+Cong+Cao+(TaoPro);IT+Student+%7C+Full-Stack+Explorer;Building+useful+things+with+clean+code" alt="Typing Intro" />
 
-### 😂 Random Dev Meme Hehe Lele
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text">
-        <themed-picture data-catalyst-inline="true" data-catalyst="">
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-                <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-            </picture>
-        </themed-picture>
-    </article>
-</body>
-</html>
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=CongCaoIT&label=Profile+Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/CongCaoIT?logo=github&style=for-the-badge&color=f59e0b" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/CongCaoIT?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=22c55e" alt="GitHub Stars" />
+
+</div>
+
+---
+
+## About Me
+
+- Full-Stack Software Developer with hands-on experience delivering web, mobile, and admin systems end-to-end.
+- Proven project domains: Logistics, E-commerce, and EdTech, from requirement analysis to deployment and optimization.
+- Main stack: React/Next.js, NestJS/ExpressJS, Laravel/PHP, React Native, MySQL, and SQL Server.
+- Portfolio: [congcao.io.vn](https://congcao.io.vn).
+
+## Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/CongCaoIT)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/phan_conghieu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CongCaoIT)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+## Tech Toolbox
+
+<p>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,unity,vscode,figma" alt="Tech Stack" />
+</p>
+
+## Featured Focus
+
+- Portfolio website with multilingual support (EN/VI), light/dark themes, and motion design.
+- Practical projects that solve real problems and sharpen engineering discipline.
+- Continuous contribution and writing cleaner code every week.
+
+## GitHub Analytics
+
+<p>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=CongCaoIT&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=CongCaoIT&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CongCaoIT&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=CongCaoIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Overview" />
+</p>
+
+## Fun Zone
+
+<div align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random Dev Joke" />
+</div>
+
+## Contribution Snake
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CongCaoIT&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" />
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile
+
+If you like what I build, drop a follow and let's connect.
+
+</div>
